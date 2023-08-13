@@ -1,4 +1,4 @@
-h1>How To Find An IP Address</h1>
+<h1>How To Test Port Connectivity</h1>
 
 <h2>Description</h2>
 Project consists of using PowerShell to test port connectivity.<br />
