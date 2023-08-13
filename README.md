@@ -1,7 +1,7 @@
 <h1>How To Test Port Connectivity</h1>
 
 <h2>Description</h2>
-Project consists of using PowerShell to test port connectivity.<br />
+Lab consists of using PowerShell to test port connectivity.<br />
 
 
 <h2>Languages and Utilities Used</h2>
